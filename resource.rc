@@ -1,0 +1,23 @@
+#include <windows.h>
+#include <commctrl.h>
+#include <richedit.h>
+#include "resource.h"
+
+
+IDB_BASKET_MASK    BITMAP         ".\\res\\img\\basket_mask.bmp"
+
+IDB_BT_BASKET      BITMAP         ".\\res\\img\\bt_basket.bmp"
+
+IDB_LIFE           BITMAP         ".\\res\\img\\life.bmp"
+
+IDB_LIFE_MASK      BITMAP         ".\\res\\img\\life_mask.bmp"
+
+IDB_NORMAL_BASKET  BITMAP         ".\\res\\img\\normal_basket.bmp"
+
+IDB_QQHEAD         BITMAP         ".\\res\\img\\qqhead.bmp"
+
+IDB_REPLAY         BITMAP         ".\\res\\img\\replay.bmp"
+
+IDB_REPLAY_MASK    BITMAP         ".\\res\\img\\replay_mask.bmp"
+
+IDB_SUPER_BASKET   BITMAP         ".\\res\\img\\super_basket.bmp"
